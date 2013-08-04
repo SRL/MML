@@ -1,0 +1,11 @@
+*.bak
+*.ppu
+*.o
+*.compiled
+*.or
+*.s
+^Doc\/sphinx\/\_build
+*.res
+*.pyc
+*.log
+build_info.inc
